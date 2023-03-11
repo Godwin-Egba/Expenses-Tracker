@@ -1,0 +1,69 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.card{
+    border-radius: 10px;
+}
+
+.card-head, .clear{
+    border-radius:10px ;
+    background: linear-gradient(to right, rgb(241, 129, 140), rgb(133, 153, 235));
+}
+.trig{
+    background: linear-gradient(to right, rgb(241, 129, 140), rgb(133, 153, 235));
+    font-weight: 700;
+    color: white;
+}
+
+.card{
+   height: 93vh;
+}
+
+.tots{
+    font-weight: 400;
+    margin-left: 5px;
+
+}
+.usd1, .usd2, .usd3{
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.k4, .k5, .clear{
+    font-weight: 500;
+}
+
+
+.modal-body{
+    text-align: center;
+    line-height: 3rem;
+}
+
+.bott{
+    padding: 8px 9rem;
+    background: linear-gradient(to right, rgb(241, 129, 140), rgb(133, 153, 235));
+    border: none;
+    border-radius: 10px;
+}
+.amt{
+    color: grey;
+    font-weight: 400;
+}
+
+.x{
+    margin-left: 13rem;
+    background: linear-gradient(to right, rgb(133, 153, 235), rgb(241, 129, 140));
+    border: none;
+}
+
+
+
+
+
+
+
+
+
