@@ -61,7 +61,7 @@
 
 @media(max-width:576px){
     .x{
-        margin-left: 10rem;
+        margin: auto;
         background: linear-gradient(to right, rgb(133, 153, 235), rgb(241, 129, 140));
         border: none;
     }
